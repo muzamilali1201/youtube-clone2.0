@@ -1,3 +1,7 @@
+Youtube_clone 2.0 is a clone of youtube where you can search and watch youtube videos of your choice. 😊
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
